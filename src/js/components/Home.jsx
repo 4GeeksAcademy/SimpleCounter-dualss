@@ -1,7 +1,7 @@
 import React from "react";
 import Contador from "./Contador"
 
-//include images into your bundle
+//Contador basico sin mucha cosa pa quitarmelo de en medio, lo mejoraré
 
 
 //create your first component
